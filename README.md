@@ -18,4 +18,8 @@ Then run
 
 ``using WooldridgeDatasets``
 
+For extracting the data, use 
+
+```obtain_data("data name")```
+
 If you face any problem, feel free to raise it in the [issues](https://github.com/arubhardwaj/WooldridgeDatasets.jl/issues).
