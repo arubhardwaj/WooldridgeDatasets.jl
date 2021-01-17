@@ -11,7 +11,7 @@ This package includes all the data sets used in the **Introductory Econometrics:
 To download this package execute:
 
 
-``pkg> add https://github.com/arubhardwaj/WooldridgeDatasets.jl``
+``pkg> add WooldridgeDatasets``
 
 
 Then run
