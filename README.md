@@ -18,6 +18,6 @@ Then run
 
 ``using WooldridgeDatasets``
 
-Then use ``obtain_data("Dataset Name")`` or ``wooldridge("Dataset name")`` (any of these two), to use the dataset. It'd be better if these commands are used with ``DataFrame()`` function from [``DataFrames.jl``](https://github.com/JuliaData/DataFrames.jl) package.
+Then use ``wooldridge("Dataset name")`` (any of these two), to use the dataset. It'd be better if these commands are used with ``DataFrame()`` function from [``DataFrames.jl``](https://github.com/JuliaData/DataFrames.jl) package.
 
 If you face any problem, feel free to raise it in the [issues](https://github.com/arubhardwaj/WooldridgeDatasets.jl/issues).
