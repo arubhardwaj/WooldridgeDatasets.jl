@@ -1,5 +1,6 @@
 module WooldridgeDatasets
-    include("dataURL.jl")
+    using CSV: lazystrings
+
     include("data.jl")
-export obtain_data, wooldridge
+export wooldridge
 end
