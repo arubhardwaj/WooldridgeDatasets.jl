@@ -1,6 +1,6 @@
 name = "WooldridgeDatasets"
 uuid = "b46f53ff-21ea-4df8-83e7-e19d2972755a"
-authors = ["Aru Bhardwaj <aruecon@gmail.com>"]
+authors = ["Aru Bhardwaj <arubhardwaj@pm.me>"]
 version = "0.1.3"
 
 [deps]
