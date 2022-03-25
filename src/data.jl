@@ -9,5 +9,5 @@ These two can be accessed with using `k401` and `k401ksubs`
 function wooldridge(dataset_name::String)
     path = joinpath(@__DIR__,"..", "data")
     full_path = joinpath(path, string(dataset_name, ".csv"))
-    return CSV.File(full_path, lazystrings=true)
+    return CSV.File(full_path)
 end
