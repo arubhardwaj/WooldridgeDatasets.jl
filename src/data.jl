@@ -11,4 +11,3 @@ function wooldridge(dataset_name::String)
     full_path = joinpath(path, string(dataset_name, ".csv"))
     return CSV.File(full_path, lazystrings=true)
 end
-
