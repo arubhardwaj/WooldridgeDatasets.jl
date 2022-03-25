@@ -1,5 +1,5 @@
 module WooldridgeDatasets
-    using CSV: lazystrings
+    using CSV
 
     include("data.jl")
 export wooldridge
